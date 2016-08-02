@@ -1,0 +1,11 @@
+{
+  "name": "keepsystemjs.webpack.plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin that keeps system.import statements intact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wictor Wilén, https://www.wictorwilen.se",
+  "license": "ISC"
+}
