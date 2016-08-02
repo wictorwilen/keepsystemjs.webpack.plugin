@@ -5,7 +5,7 @@ This Webpack plugin (tested with Webpack 2 beta) allows you to use system.import
 ## Installation
 
 ```
-npm install https://github.com/wictorwilen.se/keepsystemjs.webpack.plugin
+npm install https://github.com/wictorwilen/keepsystemjs.webpack.plugin --save-dev
 ```
 
 ## Usage
